@@ -1,0 +1,15 @@
+@media (max-width: 2000px) {
+  .header {
+    padding-inline: 20px;
+  }
+}
+@media (max-width: 695px) {
+  nav a {
+    display: none;
+  }
+}
+@media (max-width: 500px) {
+  nav img {
+    display: none;
+  }
+}
